@@ -1,4 +1,3 @@
-
 vable Type Configuration File
 ##
 ## This file defines system-wide
@@ -23,11 +22,11 @@ StaticFilePath /usr/local/apache2/htdocs/MT/mt-static
 ObjectDriver DBI::postgres
 Database m1
 DBUser postgres
-DBPassword senshi0330
+DBPassword hogehoge
 DBHost localhost
 
 #======== MAIL =======================
-EmailAddressMain senshi2000@gmail.com
+EmailAddressMain hogehoge@gmail.com
     
 DefaultLanguage ja
 
